@@ -1,0 +1,287 @@
+/* Header */
+.call-me{
+  background-color: rgb(180, 181, 183);
+  width: 33.5cm;
+  height: 37px;
+  justify-items: center;
+  justify-content: center;
+  display: flex;
+  position: fixed;
+
+}
+
+
+.tel-call{
+  color: rgb(0, 0, 0);
+  justify-items: center;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 14px 20px;
+  width: auto;
+  height: 2.6cm;
+  justify-content:center;
+ }
+ 
+ .nav-items {
+  display: flex;
+  gap: 10px;
+  
+ }
+ 
+ .nav-item {
+  color: #fff;
+  text-decoration: none;
+  padding: 68px
+ }
+ 
+ .nav-item:hover {
+  color: #ddd;
+ }
+ .Link-logo{
+  width: auto;
+justify-items: auto;
+ }
+ .logo{
+  width: auto;
+  height: 3cm;
+  margin-left: -287px;
+  
+ }
+ /* Home */
+ .home-div{
+  width: auto;
+  height: auto
+ }
+ .container{
+  padding: 12px;
+  height: 23cm;
+  /* background-color: aqua; */
+ } 
+ .h1-bienve{
+  font-size: 4vw;
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+
+ }
+ .p-home{
+  max-width: 50%;
+  line-height: 1.5em;
+  font-weight: normal;
+  font-size: 2.2rem;
+  letter-spacing: .05em;
+  text-align: left;
+  margin-left: 12cm;
+  top: -12cm;
+  position: relative;
+  color: black;
+  
+ }
+ .mi-p-home{
+
+font: 1em sans-serif;
+text-decoration-line:underline;
+font-size: 32px;
+  transition: all .6s ease-in-out;
+  position: relative;
+  top: 35px;
+  transform: matrix3d(
+    1, 0, 0, 0,
+    0, 1, 0, 0,
+    0, 0, 1, 0,
+    0, 0, 0, 1);
+    
+ }
+ .p-home-2{
+
+  width:auto ;
+  max-width:1244px ;
+  margin-right: 40px;
+  margin-left: -9.6cm;
+  top: -0.3cm;
+  position: relative;
+
+ }
+ .movie{
+  width: 402px;
+  height: 402px;
+  /* background-color: red; */
+  border: rgb(21, 20, 20) 5px inset;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0
+  ,0.5);
+margin-left: 11px;
+ }
+
+ .movie-vi{
+  width: 400px;
+  height: 400px;
+ 
+
+ }
+ .div-beneficio{
+  position: relative;
+  display: flex;
+  top: 41px;
+  margin-left: -426px;
+  font-size: 22px;
+ }
+
+ .two-columns {
+  font-size: 20px;
+  margin: 53px;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -10cm;
+  width: 30cm;
+}
+
+.two-columns li {
+  margin: -15px;
+  flex: 1 0 50%; /* Cada elemento toma el 50% del ancho */
+  padding: 10px; /* Ajusta según sea necesario */
+  box-sizing: border-box; /* Incluye el padding en el ancho total */
+}
+/* about */
+.h1-Acer{
+  text-align: center;
+  color:#000000 ;
+  font-size: 39px;
+}
+.figu-nostro{
+  width: 560px;
+  height: 360px;
+
+}
+.img-nostro{
+  width: 550px;
+  height: 350px;  border:  2px solid black;
+}
+.div-text-nos{
+  width: auto;
+  height: 1cm;
+
+  position: relative;
+  margin-left: 640px;
+  top: -389px;
+  padding: 15px;
+
+}
+.parafo-nosotro{
+  text-align: justify;
+  line-height: 28px;
+  font-size: 25px;
+ 
+}
+.div-Mesange-h1-abo{
+  width: 19cm;
+  height: 1cm;
+  
+}
+.Mesange-h1-abo{
+  margin-left: 15px;
+  display: flex;
+  font-size: 25px;
+}
+/* portafolio */
+.figure-porta{
+  width: 560px;
+  height: 360px;
+
+}
+.figure-img-porta{
+  width: 550px;
+  height: 350px;  border:  2px solid black;
+}
+.div-text-porta{
+  width: auto;
+  height: 1cm;
+  position: relative;
+  margin-left: 640px;
+  top: -413px;
+  padding: 24px;
+}
+.parafo-portafolio{
+  text-align: justify;
+  line-height: 38px;
+  font-size: 25px;
+}
+.conct-porf{
+  width: auto;
+  height: auto;
+  flex-wrap: nowrap;
+}
+.faph{
+  margin-left: 35px;
+}
+ /* footer */
+ .div-footer{
+  height: auto;
+ }
+ .footer {
+  
+  background-color: #333;
+  color: #fff;
+  padding: 30px 0;
+  position: relative;
+  top: 55px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.footer-item {
+  flex-basis: calc(33.333% - 20px);
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
+
+.footer-item h4 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer-item p {
+  margin-bottom: 5px;
+}
+
+.footer-item a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-item a:hover {
+  text-decoration: underline;
+}
+
+.footer-copyright {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer ul li {
+  margin-bottom: 5px;
+}
+
+.footer i {
+  margin-right: 10px;
+  font-size: 18px;
+  vertical-align: middle;
+}
