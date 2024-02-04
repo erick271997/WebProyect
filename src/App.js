@@ -2,6 +2,7 @@
 import { Route, Routes } from 'react-router';
 import { BrowserRouter } from 'react-router-dom';
 import './Estilos/App.css';
+import './Estilos/medisScreen.css'
 import About from './Pages/About';
 import Home from './Pages/Home';
 import Portafolio from './Pages/Portafolio';

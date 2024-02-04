@@ -12,7 +12,7 @@ function Header() {
   return (
     <div>
       <div className='call-me'>
-        <a  className='tel-call' href="tel:+5916082347" target
+        <a  className='tel-call' href="tel:+57(316479-8249" target
         ="_blank">
           <MdOutlineSmartphone size={30} /> Llamar ahora!
           🇨🇴 +57  (316)479-8249

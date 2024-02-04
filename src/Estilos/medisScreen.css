@@ -1,0 +1,998 @@
+
+@media screen and (min-width: 320px) and (max-width: 365px)
+{
+    .call-me{
+        min-width: 8.2cm;
+      width: auto;
+        height: auto;
+        font-size: 15px;
+    }
+    .tel-call{
+        width: auto;
+        height: auto;
+       
+    }
+    .navbar{
+   
+        width:  7.2cm;
+        height: 2cm;
+    }
+    .nav-items{
+        width: 10cm;
+     margin-left: 62px;
+        gap: 1px;
+        justify-content: right;
+        font-size: 12px;
+    }
+    .nav-item{
+        padding: 18px;
+    }
+    .Link-logo{
+      
+      
+        margin-left: 0px;
+        width: 1cm;
+        /* background: antiquewhite; */
+        height: 1px;
+    }
+    .logo{
+        border-radius: 100%;
+        position: relative;
+        left: 291px;
+        width: 1.7cm;
+        height: 1.7cm;
+        top: -35px;
+       
+        
+    }
+    .nav-items{
+        width: auto;
+        display: flex;
+      
+
+    }
+   
+ 
+    .container{
+ 
+    width: 9cm;
+    height: 18cm;
+
+    }
+    .bienvenido{
+        font-size: 20px;
+        font-weight: bold;
+        margin-left: -7px;
+ 
+        position: relative;
+        top: 1px;
+    }
+    .movie{
+        width: 6cm;
+        height: 6cm;
+        margin-left: 50px;
+        
+
+    }
+    .movie-vi{
+        width: 6cm;
+        height: 6cm;
+        padding-left: 109px; 
+        margin-left: -2.9cm;
+        
+    }
+
+    .p-home{
+            /* background-color: blue; */
+    max-width: 8cm;
+    height: 8cm;
+    padding-left: 3px;
+    font-size: 14px;
+    position: relative;
+    top: -5px;
+    margin-left: -8px;
+        
+     
+
+    }
+    .mi-p-home{
+        font-size: 26px;
+        position: relative;
+        top: 30px;
+    }
+    .mi-p-home p{
+        color: darkgreen;
+    }
+    .div-beneficio{
+       
+        font-size: 6px;
+        margin-left: 1px;
+        width: 8cm;
+        top: -15px;
+    
+     
+    }
+    .two-columns{
+        font-size: 12px;
+        display: contents;
+    font: 1em Arial, sans-serif;
+      position: relative;
+      top: 1px;
+       
+    }
+    .div-footer{
+        max-width: 8cm;
+    
+    }
+
+   .footer-item{
+    top: -45px;
+    position: relative;
+  
+}
+.about{
+    max-width: 8.1cm;
+    min-width:  7.9cm;
+    
+
+}
+   .h1-Acer{
+    font-size: 29px;
+   }
+   .figu-nostro{
+    width: 7.8cm;
+    height: 6cm;
+    margin-left: 2px;
+   }
+   .img-nostro{
+    width: 7.9cm;
+    height: 6cm;
+   }
+   .div-text-nos{
+    width: 7.4cm;
+   
+    height: 8cm;
+    top: 5px;
+    margin-left: 5px;
+
+   }
+   .parafo-nosotro{
+    font-size: 10px;
+   }
+   .Mesange-h1-abo{
+    font-size: 10px;
+    width: 6cm;
+    position: relative;
+    top: 22px;
+   }
+   .portafolio{
+
+   }
+   .h1-bioe-por{
+    font-size: 25px;
+   }
+   .figure-porta{
+    width: 7cm;
+    height: 7cm;
+   }
+   .figure-img-porta{
+    width: 6.9cm;
+    height: 6.9cm;
+   }
+    .div-text-porta{
+        width: 7cm;
+        height: 9.3cm;
+        position: relative;
+        top: -45px;
+        margin-left: 5px;
+    }
+    .parafo-portafolio{
+        font-size: 14px;
+    }
+  }
+
+
+/* ////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+@media screen and (min-width: 390px) and (max-width: 395px)
+{
+    .call-me{
+        min-width: 6.5cm;
+      width: 6cm;
+        height: auto;
+        /* background-color: rgb(26, 216, 109); */
+        font-size: 12px;
+    }
+    .tel-call{
+        width: auto;
+        height: auto;
+       
+    }
+    .navbar{
+        width: 5.5cm;
+       
+    }
+    .nav-items{
+        width: auto;
+     margin-left: 22px;
+        gap: 4px;
+        justify-content: right;
+    }
+    .nav-item{
+        padding: 4px;
+        font-size: 9px;
+    }
+    .Link-logo{
+      
+        padding: 49px;
+        margin-left: 0px;
+        width: 2cm;
+        /* background: antiquewhite; */
+        height: 1px;
+    }
+    .logo{
+         border-radius: 100%;
+        
+        position: relative;
+        left: 240px;
+        width: 2.5cm;
+        height: 2.5cm;
+        top: -45px;
+       
+        
+    }
+    .nav-items{
+        width: auto;
+        display: flex;
+      
+
+    }
+    .container{
+   
+     height: 22cm;
+   
+       
+        
+    }
+    .bienvenido{
+        font-size: 13px;
+        font-weight: bold;
+        margin-left: -7px;
+ 
+        position: relative;
+        top: 1px;
+    }
+    .movie{
+        width: 5.6cm;
+        height: 5.4cm;
+
+    }
+    .movie-vi{
+        width: 5.6cm;
+        height: 5.4cm;
+        padding-left: 109px; 
+        margin-left: -3cm;
+        
+    }
+
+    .p-home{
+        
+       max-width: 5.6cm;
+        height: 8cm;
+        font-size: 19px;
+        position: relative;
+        top: -5px;
+        margin-left: 8.9px;
+
+        
+     
+
+    }
+    .mi-p-home{
+        font-size: 20px;
+        position: relative;
+        top: 30px;
+    }
+    .mi-p-home p{
+        color: darkgreen;
+    }
+    .div-beneficio{
+       
+        font-size: 5.1px;
+        margin-left: -13px;
+        width: 5.3cm;
+
+        top: -15px;
+
+    
+     
+    }
+    .two-columns{
+        font-size: 12px;
+        display: contents;
+        padding: 1px;
+        top: 5px;
+        background-color: red;
+    }
+    .two-columns li{
+        float: left;
+    }
+    .div-footer{
+        height: 94%;
+    }
+    .footer{
+        width: 6cm;
+      
+    }
+   .footer-item{
+    top: -45px;
+    position: relative;
+    
+}
+.footer-content{
+    display: list-item;
+}
+   
+    
+.about{
+    max-width: 8.1cm;
+    min-width:  7.9cm;
+    height: 22cm;
+    
+
+}
+   .h1-Acer{
+    font-size: 29px;
+   }
+   .figu-nostro{
+    width: 7.5cm;
+    height: 4cm;
+    margin-left: 9px;
+   }
+   .img-nostro{
+    width: 7.5cm;
+    height: 5cm;
+   }
+   .div-text-nos{
+    width: 7.3cm;
+   
+    height: 8cm;
+    top: 5px;
+    margin-left: 5px;
+
+   }
+   .parafo-nosotro{
+    font-size: 18px;
+   }
+   .div-Mesange-h1-abo{
+   position: relative;
+   top: 227px;
+   }
+   .Mesange-h1-abo{
+    font-size: 10px;
+    width: 6cm;
+
+    position: relative;
+    top: 29px;
+   }
+   .portafolio{
+
+   }
+   .h1-bioe-por{
+    font-size: 25px;
+   }
+   .figure-porta{
+    width: 7cm;
+    height: 7cm;
+   }
+   .figure-img-porta{
+    width: 6.9cm;
+    height: 6.9cm;
+   }
+    .div-text-porta{
+        width: 7.5cm;
+        height: 9.3cm;
+        position: relative;
+        top: -45px;
+        margin-left: 5px;
+    }
+    .parafo-portafolio{
+        font-size: 16px;
+    }
+  }
+
+
+ /* ////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+@media screen and (min-width: 396px) and (max-width: 414px)
+{
+    .call-me{
+        min-width: 10cm;
+      width: 10cm;
+        height: auto;
+        /* background-color: rgb(26, 216, 109); */
+        font-size: 12px;
+    }
+    .tel-call{
+        width: auto;
+        height: auto;
+       
+    }
+    .navbar{
+        /* background-color: rgb(242, 51, 13); */
+    }
+    .nav-items{
+        width: auto;
+     margin-left: 25px;
+        gap: 2px;
+        justify-content: right;
+    }
+    .nav-item{
+        padding: 18px;
+    }
+    .Link-logo{
+      
+        padding: 49px;
+        margin-left: 0px;
+        width: 2cm;
+        /* background: antiquewhite; */
+        height: 1px;
+    }
+    .logo{
+        border-radius: 100%;
+        position: relative;
+        left: 250px;
+        width: 2.7cm;
+        height: 2.7cm;
+        top: -45px;
+       
+        
+    }
+    .nav-items{
+        width: auto;
+        display: flex;
+      
+
+    }
+    .container{
+   
+     height: 22cm;
+   
+       
+        
+    }
+    .bienvenido{
+        font-size: 23px;
+        font-weight: bold;
+        margin-left: -7px;
+ 
+        position: relative;
+        top: 1px;
+    }
+    .movie{
+        width: 7.7cm;
+        height: 7.5cm;
+
+    }
+    .movie-vi{
+        width: 7.8cm;
+        height: 7.5cm;
+        padding-left: 109px; 
+        margin-left: -3cm;
+        
+    }
+
+    .p-home{
+        /* background-color: blue; */
+       max-width: 10cm;
+        height: 8cm;
+        font-size: 22px;
+        position: relative;
+        top: -5px;
+        margin-left: 13px;
+
+        
+     
+
+    }
+    .mi-p-home{
+        font-size: 26px;
+        position: relative;
+        top: 30px;
+    }
+    .mi-p-home p{
+        color: darkgreen;
+    }
+    .div-beneficio{
+       
+        font-size: 6.2px;
+        margin-left: -18px;
+        width: 17cm;
+        top: -15px;
+
+    
+     
+    }
+    .two-columns{
+        font-size: 12px;
+        display: contents;
+        padding: 1px;
+        top: 5px;
+        background-color: red;
+    }
+    .two-columns li{
+        float: left;
+    }
+   .footer-item{
+    top: -45px;
+    position: relative;
+    
+}
+.footer-content{
+    display: list-item;
+}
+   
+    
+.about{
+    max-width: 8.1cm;
+    min-width:  7.9cm;
+    
+
+}
+   .h1-Acer{
+    font-size: 29px;
+   }
+   .figu-nostro{
+    width: 8.1cm;
+    height: 5cm;
+    margin-left: 2px;
+   }
+   .img-nostro{
+    width: 8.9cm;
+    height: 6cm;
+   }
+   .div-text-nos{
+    width: 8.3cm;
+   
+    height: 8cm;
+    top: 5px;
+    margin-left: 5px;
+
+   }
+   .parafo-nosotro{
+    font-size: 12px;
+   }
+   .Mesange-h1-abo{
+    font-size: 10px;
+    width: 6cm;
+    position: relative;
+    top: 29px;
+   }
+   .portafolio{
+
+   }
+   .h1-bioe-por{
+    font-size: 25px;
+   }
+   .figure-porta{
+    width: 8cm;
+    height: 8cm;
+   }
+   .figure-img-porta{
+    width: 7.9cm;
+    height: 7.9cm;
+   }
+    .div-text-porta{
+        width: 8cm;
+        height: 9.3cm;
+        position: relative;
+        top: -45px;
+        margin-left: 5px;
+    }
+    .parafo-portafolio{
+        font-size: 16px;
+    }
+  }
+
+
+
+
+  /* ////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+  @media screen and (min-width: 396px) and (max-width: 414px)
+{
+    .call-me{
+        min-width: 10cm;
+      width: 10cm;
+        height: auto;
+        /* background-color: rgb(26, 216, 109); */
+        font-size: 12px;
+    }
+    .tel-call{
+        width: auto;
+        height: auto;
+       
+    }
+    .navbar{
+        /* background-color: rgb(242, 51, 13); */
+    }
+    .nav-items{
+        width: auto;
+     margin-left: 25px;
+        gap: 2px;
+        justify-content: right;
+    }
+    .nav-item{
+        padding: 18px;
+    }
+    .Link-logo{
+      
+        padding: 49px;
+        margin-left: 0px;
+        width: 2cm;
+        /* background: antiquewhite; */
+        height: 1px;
+    }
+    .logo{
+        position: relative;
+        left: 250px;
+        width: 2.7cm;
+        height: 2.7cm;
+        top: -45px;
+       
+        
+    }
+    .nav-items{
+        width: auto;
+        display: flex;
+      
+
+    }
+    .container{
+   
+     height: 22cm;
+   
+       
+        
+    }
+    .bienvenido{
+        font-size: 23px;
+        font-weight: bold;
+        margin-left: -7px;
+ 
+        position: relative;
+        top: 1px;
+    }
+    .movie{
+        width: 7.7cm;
+        height: 7.5cm;
+
+    }
+    .movie-vi{
+        width: 7.8cm;
+        height: 7.5cm;
+        padding-left: 109px; 
+        margin-left: -3cm;
+        
+    }
+
+    .p-home{
+        /* background-color: blue; */
+       max-width: 10cm;
+        height: 8cm;
+        font-size: 22px;
+        position: relative;
+        top: -5px;
+        margin-left: 13px;
+
+        
+     
+
+    }
+    .mi-p-home{
+        font-size: 26px;
+        position: relative;
+        top: 30px;
+    }
+    .mi-p-home p{
+        color: darkgreen;
+    }
+    .div-beneficio{
+       
+        font-size: 6.2px;
+        margin-left: -18px;
+        width: 17cm;
+        top: -15px;
+
+    
+     
+    }
+    .two-columns{
+        font-size: 12px;
+        display: contents;
+        padding: 1px;
+        top: 5px;
+        background-color: red;
+    }
+    .two-columns li{
+        float: left;
+    }
+   .footer-item{
+    top: -45px;
+    position: relative;
+    
+}
+.footer-content{
+    display: list-item;
+}
+   
+    
+.about{
+    max-width: 8.1cm;
+    min-width:  7.9cm;
+    
+
+}
+   .h1-Acer{
+    font-size: 29px;
+   }
+   .figu-nostro{
+    width: 8.1cm;
+    height: 5cm;
+    margin-left: 2px;
+   }
+   .img-nostro{
+    width: 8.9cm;
+    height: 6cm;
+   }
+   .div-text-nos{
+    width: 8.3cm;
+   
+    height: 8cm;
+    top: 5px;
+    margin-left: 5px;
+
+   }
+   .parafo-nosotro{
+    font-size: 12px;
+   }
+   .Mesange-h1-abo{
+    font-size: 10px;
+    width: 6cm;
+    position: relative;
+    top: 29px;
+   }
+   .portafolio{
+
+   }
+   .h1-bioe-por{
+    font-size: 25px;
+   }
+   .figure-porta{
+    width: 8cm;
+    height: 8cm;
+   }
+   .figure-img-porta{
+    width: 7.9cm;
+    height: 7.9cm;
+   }
+    .div-text-porta{
+        width: 8cm;
+        height: 9.3cm;
+        position: relative;
+        top: -45px;
+        margin-left: 5px;
+    }
+    .parafo-portafolio{
+        font-size: 16px;
+    }
+  }
+
+
+
+   /* ////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+@media screen and (min-width: 416px) and (max-width: 434px)
+{
+    .call-me{
+        min-width: 11.3cm;
+      width: 10cm;
+        height: auto;
+        /* background-color: rgb(26, 216, 109); */
+        font-size: 12px;
+    }
+    .tel-call{
+        width: auto;
+        height: auto;
+       
+    }
+    .navbar{
+        /* background-color: rgb(242, 51, 13); */
+    }
+    .nav-items{
+        width: auto;
+     margin-left: 25px;
+        gap: 2px;
+        justify-content: right;
+    }
+    .nav-item{
+        padding: 18px;
+    }
+    .Link-logo{
+  
+        padding: 49px;
+        margin-left: 0px;
+        width: 2cm;
+        /* background: antiquewhite; */
+        height: 1px;
+    }
+    .logo{
+        border-radius: 100%;
+        position: relative;
+        left: 250px;
+        width: 2.7cm;
+        height: 2.7cm;
+        top: -45px;
+       
+        
+    }
+    .nav-items{
+        width: auto;
+        display: flex;
+      
+
+    }
+    .container{
+   
+     height: 22cm;
+   
+       
+        
+    }
+    .bienvenido{
+        font-size: 23px;
+        font-weight: bold;
+        margin-left: -7px;
+ 
+        position: relative;
+        top: 1px;
+    }
+    .movie{
+        width: 7.7cm;
+        height: 7.5cm;
+
+    }
+    .movie-vi{
+        width: 7.8cm;
+        height: 7.5cm;
+        padding-left: 109px; 
+        margin-left: -3cm;
+        
+    }
+
+    .p-home{
+        /* background-color: blue; */
+       max-width: 10cm;
+        height: 8cm;
+        font-size: 22px;
+        position: relative;
+        top: -5px;
+        margin-left: 13px;
+
+        
+     
+
+    }
+    .mi-p-home{
+        font-size: 26px;
+        position: relative;
+        top: 30px;
+    }
+    .mi-p-home p{
+        color: darkgreen;
+    }
+    .div-beneficio{
+       
+        font-size: 6.2px;
+        margin-left: -18px;
+        width: 17cm;
+        top: -15px;
+
+    
+     
+    }
+    .two-columns{
+        font-size: 12px;
+        display: contents;
+        padding: 1px;
+        top: 5px;
+        background-color: red;
+    }
+    .two-columns li{
+        float: left;
+    }
+    .div-footer{
+        position: relative;
+        top: 66px;
+    }
+   .footer-item{
+    top: -45px;
+    position: relative;
+    
+}
+.footer-content{
+    display: list-item;
+}
+   
+    
+.about{
+    max-width: 8.1cm;
+    min-width:  7.9cm;
+    
+
+}
+   .h1-Acer{
+    font-size: 29px;
+   }
+   .figu-nostro{
+    width: 9.1cm;
+    height: 6cm;
+    margin-left: 7px;
+   }
+   .img-nostro{
+    width: 9.9cm;
+    height: 6cm;
+   }
+   .div-text-nos{
+    width: 9.5cm;
+   
+    height: 8cm;
+    top: 5px;
+    margin-left: 5px;
+
+   }
+   .parafo-nosotro{
+    font-size: 18px;
+   }
+   .Mesange-h1-abo{
+    font-size: 13px;
+    width: 8cm;
+    position: relative;
+    top: 117px;
+   }
+   .portafolio{
+
+   }
+   .h1-bioe-por{
+    font-size: 25px;
+   }
+   .figure-porta{
+    width: 8cm;
+    height: 8cm;
+   }
+   .figure-img-porta{
+    width: 7.9cm;
+    height: 7.9cm;
+   }
+    .div-text-porta{
+        width: 8cm;
+        height: 9.3cm;
+        position: relative;
+        top: -45px;
+        margin-left: 5px;
+    }
+    .parafo-portafolio{
+        font-size: 16px;
+    }
+  }

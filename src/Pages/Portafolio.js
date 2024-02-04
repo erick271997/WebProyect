@@ -11,7 +11,7 @@ function Portafolio() {
   return (
     <>
     <Header/>
-   <h1> ¡Bienvenido a mi portafolio!  </h1>
+   <h1 className='h1-bioe-por'> ¡Bienvenido a mi portafolio!  </h1>
    <br/>
 
    <figure className='figure-porta'>
@@ -34,8 +34,10 @@ tu necesidad. ¿Qué esperas? ¡ contactanos YA!
             &nbsp; &nbsp;
           
             <FaPhoneVolume className='faph' size={62} color="#47C569" 
-            onClick ={ ()=>window.location="/contacto"}
-            />
+            onClick ={ ()=>window.location=
+              "tel:+5731647982496"}/>
+            
+         
 
           </div>
          
