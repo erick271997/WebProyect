@@ -10,7 +10,8 @@ import { FaPhoneVolume } from "react-icons/fa6";
 function Portafolio() {
   return (
     <>
-    <Header/>
+   
+    <Header/>   <br/>
    <h1 className='h1-bioe-por'> ¡Bienvenido a mi portafolio!  </h1>
    <br/>
 

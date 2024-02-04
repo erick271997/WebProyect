@@ -10,10 +10,11 @@ function Home() {
   const isMobile = useMediaQuery({ maxWidth: 320 });
 
   return (
-    <div className='container-home'>
+    <div className=''> 
+
       <Header />
+     
       <div className="home-div">
-        <img src="" alt="" />
       </div>
       <div className="container">
       <p className='bienvenido'>¡Bienvenido a nuestro sitio web!</p>

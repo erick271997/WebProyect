@@ -22,6 +22,7 @@ function Header() {
       </div>
       <br/>
       <br/>
+      <br/>
     <header className="navbar">
      
       <Link className='Link-logo' to='/'><img className='logo' src={logoA} alt='logo'/> </Link>
