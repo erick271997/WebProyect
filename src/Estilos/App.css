@@ -215,9 +215,6 @@ body {
   top: 19px;
  
 }
-.movie-vi{
-  background-color: red;
-}
 
 .figure-img-porta {
   width: auto; /* Ancho automático para dispositivos de tamaño medio o grande */
@@ -300,6 +297,15 @@ body {
   gap: 37px;
 
   }  
+}
+@media screen and (max-width: 421px) {
+  /* footer  */
+.footer {
+  width: 11cm;
+  min-width: auto;
+
+}
+
 }
 @media screen and (max-width: 343px) {
   /* Header */
