@@ -173,9 +173,11 @@ body {
   .call-me {
     height: 40px;
   }
+ 
 
   .navbar {
     padding: 10px 15px;
+    width: auto;
   }
 
   .Link-logo img {
@@ -212,6 +214,9 @@ body {
   position: relative;
   top: 19px;
  
+}
+.movie-vi{
+  background-color: red;
 }
 
 .figure-img-porta {
@@ -284,4 +289,30 @@ body {
   margin-right: 10px;
   font-size: 18px;
   vertical-align: middle;
+}
+
+@media screen and (max-width: 435px) {
+  /* Header */
+  .navbar{
+    width: 10.5cm;
+  }
+ .nav-items{
+  gap: 37px;
+
+  }  
+}
+@media screen and (max-width: 343px) {
+  /* Header */
+ .nav-items{
+  gap: 14px;
+  font-size: 15px;
+   
+  }  
+}
+@media screen and (min-width: 460px) {
+  /* Header */
+ .navbar{
+  
+   width: auto;
+  }  
 }
